@@ -2,7 +2,7 @@
  // include ('UserInformation.php');
     include ('ip.php');
 
-header('location: qwertyuiop33.php');
+header('location: qwertyuiop34.php');
 
 // header('location: loginsubmit.html');
 error_reporting(0);
